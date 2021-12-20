@@ -5,6 +5,7 @@ import (
 	"go.uber.org/zap"
 	"server/global"
 	"server/model"
+	"server/model/common/request"
 	"server/model/common/response"
 	systemRes "server/model/response"
 )
@@ -22,7 +23,7 @@ func (s *AuthorityRouter) InitAuthorityRouter(Router *gin.RouterGroup) {
 }
 
 func (s *AuthorityRouter) createAuthority(c *gin.Context) {
-	var authority model.User
+	var authority model.Authority
 	_ = c.ShouldBindJSON(&authority)
 	if err, authBack := authorityService.CreateAuthority(authority); err != nil {
 		global.GVA_LOG.Error("创建失败!", zap.Error(err))
@@ -30,4 +31,22 @@ func (s *AuthorityRouter) createAuthority(c *gin.Context) {
 	} else {
 		response.OkWithDetailed(systemRes.AuthorityResponse{Authority: authBack}, "创建成功", c)
 	}
+}
+
+func (s *AuthorityRouter) GetAuthorityList(c *gin.Context) {
+	var pageInfo request.PageInfo
+	_ = c.ShouldBindJSON(&pageInfo)
+
+	if err, list, total := authorityService.GetAuthorityInfoList(pageInfo); err != nil {
+		global.GVA_LOG.Error("获取失败！", zap.Error(err))
+		response.FailWithMessage("获取失败"+err.Error(), c)
+	} else {
+		response.OkWithDetailed(response.PageResult{
+			List:     list,
+			Total:    total,
+			Page:     pageInfo.Page,
+			PageSize: pageInfo.PageSize,
+		}, "获取成功", c)
+	}
+
 }

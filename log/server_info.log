@@ -177,3 +177,23 @@
 [github.com/flipped-aurora/gin-vue-admin/server]2021/12/20 - 23:36:30.914	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:21	use middleware cors
 [github.com/flipped-aurora/gin-vue-admin/server]2021/12/20 - 23:36:30.916	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:36	router register success
 [github.com/flipped-aurora/gin-vue-admin/server]2021/12/20 - 23:36:30.918	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/core/server.go:27	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 02:43:46.292	[34minfo[0m	C:/Users/yzl/Desktop/teach/TeachSystem/initialize/gorm.go:39	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 02:43:46.294	[34minfo[0m	C:/Users/yzl/Desktop/teach/TeachSystem/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 02:43:46.294	[34minfo[0m	C:/Users/yzl/Desktop/teach/TeachSystem/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 02:43:46.297	[34minfo[0m	C:/Users/yzl/Desktop/teach/TeachSystem/initialize/router.go:36	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 02:43:46.299	[34minfo[0m	C:/Users/yzl/Desktop/teach/TeachSystem/core/server.go:27	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 03:20:30.118	[34minfo[0m	C:/Users/yzl/Desktop/teach/TeachSystem/initialize/gorm.go:39	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 03:20:30.120	[34minfo[0m	C:/Users/yzl/Desktop/teach/TeachSystem/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 03:20:30.120	[34minfo[0m	C:/Users/yzl/Desktop/teach/TeachSystem/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 03:20:30.123	[34minfo[0m	C:/Users/yzl/Desktop/teach/TeachSystem/initialize/router.go:36	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 03:20:30.135	[34minfo[0m	C:/Users/yzl/Desktop/teach/TeachSystem/core/server.go:27	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 03:34:44.665	[34minfo[0m	C:/Users/yzl/Desktop/teach/TeachSystem/initialize/gorm.go:39	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 03:34:44.668	[34minfo[0m	C:/Users/yzl/Desktop/teach/TeachSystem/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 03:34:44.668	[34minfo[0m	C:/Users/yzl/Desktop/teach/TeachSystem/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 03:34:44.671	[34minfo[0m	C:/Users/yzl/Desktop/teach/TeachSystem/initialize/router.go:36	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 03:34:44.678	[34minfo[0m	C:/Users/yzl/Desktop/teach/TeachSystem/core/server.go:27	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 03:37:09.655	[34minfo[0m	C:/Users/yzl/Desktop/teach/TeachSystem/initialize/gorm.go:39	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 03:37:09.657	[34minfo[0m	C:/Users/yzl/Desktop/teach/TeachSystem/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 03:37:09.657	[34minfo[0m	C:/Users/yzl/Desktop/teach/TeachSystem/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 03:37:09.659	[34minfo[0m	C:/Users/yzl/Desktop/teach/TeachSystem/initialize/router.go:36	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 03:37:09.665	[34minfo[0m	C:/Users/yzl/Desktop/teach/TeachSystem/core/server.go:27	server run success on 	{"address": ":8888"}

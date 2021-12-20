@@ -30,6 +30,7 @@ func RegisterTables(db *gorm.DB) {
 		model.Course{},
 		model.Class{},
 		model.CoursesPlan{},
+		model.Authority{},
 	)
 	if err != nil {
 		global.GVA_LOG.Error("register table failed", zap.Error(err))
