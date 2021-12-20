@@ -56,3 +56,5 @@ func (m *ManageService) GetRosterlist(info systemReq.RosterSearch) (err error, l
 func (m *ManageService) GetScorelist(info systemReq.ScoreSearch) (err error, list interface{}, total int64) {
 	return
 }
+
+//

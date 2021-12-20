@@ -6,10 +6,11 @@ import (
 
 //RouterGroup里注册我自己的Router
 type RouterGroup struct {
-	ManageRouter ManageRouter
-	EffectRouter EffectRouter
-	BaseRouter   BaseRouter
-	UserRouter   UserRouter
+	ManageRouter    ManageRouter
+	EffectRouter    EffectRouter
+	BaseRouter      BaseRouter
+	UserRouter      UserRouter
+	AuthorityRouter AuthorityRouter
 }
 
 var RouterGroupApp = new(RouterGroup)

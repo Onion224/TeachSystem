@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f552d393-b7d5-4b3d-aaef-45d93cb5784a" name="Changes" comment="first commit" />
+    <list default="true" id="f552d393-b7d5-4b3d-aaef-45d93cb5784a" name="Changes" comment="fix">
+      <change afterPath="$PROJECT_DIR$/router/system/admin_authority.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/initialize/router.go" beforeDir="false" afterPath="$PROJECT_DIR$/initialize/router.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/User.go" beforeDir="false" afterPath="$PROJECT_DIR$/model/User.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/request/index_user.go" beforeDir="false" afterPath="$PROJECT_DIR$/model/request/index_user.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/router/system/enter.go" beforeDir="false" afterPath="$PROJECT_DIR$/router/system/enter.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/system/index_manage.go" beforeDir="false" afterPath="$PROJECT_DIR$/service/system/index_manage.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +47,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="22BwMduOfwW3HOAXDZisLJI3uUy" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -138,7 +148,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
