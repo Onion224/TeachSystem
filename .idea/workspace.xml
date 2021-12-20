@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f552d393-b7d5-4b3d-aaef-45d93cb5784a" name="Changes" comment="fix">
-      <change afterPath="$PROJECT_DIR$/router/system/admin_authority.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/response/admin_authority.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/system/admin_authority.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/initialize/router.go" beforeDir="false" afterPath="$PROJECT_DIR$/initialize/router.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/User.go" beforeDir="false" afterPath="$PROJECT_DIR$/model/User.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/request/index_user.go" beforeDir="false" afterPath="$PROJECT_DIR$/model/request/index_user.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/server_error.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/server_error.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/server_info.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/server_info.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/router/system/admin_authority.go" beforeDir="false" afterPath="$PROJECT_DIR$/router/system/admin_authority.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/router/system/enter.go" beforeDir="false" afterPath="$PROJECT_DIR$/router/system/enter.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/system/index_manage.go" beforeDir="false" afterPath="$PROJECT_DIR$/service/system/index_manage.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/system/enter.go" beforeDir="false" afterPath="$PROJECT_DIR$/service/system/enter.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +72,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -130,6 +131,11 @@
       <framework value="gotest" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go 构建.go build main.go" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">

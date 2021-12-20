@@ -16,7 +16,8 @@ type RouterGroup struct {
 var RouterGroupApp = new(RouterGroup)
 
 var (
-	userService   = service.ServiceGroupApp.SystemService.UserService
-	manageService = service.ServiceGroupApp.SystemService.ManageService
-	effectService = service.ServiceGroupApp.SystemService.EffectService
+	userService      = service.ServiceGroupApp.SystemService.UserService
+	manageService    = service.ServiceGroupApp.SystemService.ManageService
+	effectService    = service.ServiceGroupApp.SystemService.EffectService
+	authorityService = service.ServiceGroupApp.SystemService.AuthorityService
 )
