@@ -1,0 +1,174 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/18 - 20:07:22.521	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/gorm.go:37	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/18 - 20:07:22.523	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/18 - 20:07:22.523	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/18 - 20:07:22.524	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:34	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/18 - 20:18:06.667	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/gorm.go:37	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/18 - 20:18:06.669	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/18 - 20:18:06.670	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/18 - 20:18:06.670	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:34	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/18 - 20:18:06.672	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/core/server.go:27	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/18 - 20:21:03.009	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/gorm.go:37	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/18 - 20:21:03.011	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/18 - 20:21:03.012	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/18 - 20:21:03.013	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:31	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/18 - 20:21:03.014	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/core/server.go:27	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/18 - 20:25:02.177	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/gorm.go:37	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/18 - 20:25:02.179	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/18 - 20:25:02.179	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/18 - 20:25:02.180	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:31	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/18 - 20:25:02.182	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/core/server.go:27	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/18 - 23:47:22.116	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/gorm.go:37	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/18 - 23:47:22.132	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/18 - 23:47:22.133	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/18 - 23:47:22.133	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:32	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/18 - 23:47:22.134	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/core/server.go:27	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 00:21:26.241	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/gorm.go:37	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 00:21:26.243	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 00:21:26.243	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 00:21:26.243	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:32	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 00:21:26.245	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/core/server.go:27	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 00:34:18.859	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/gorm.go:37	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 00:34:18.862	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 00:34:18.862	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 00:34:18.862	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:32	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 00:34:18.863	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/core/server.go:27	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 11:27:26.613	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/gorm.go:37	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 11:27:26.628	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 11:27:26.629	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 11:27:26.631	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:35	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 11:27:26.633	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/core/server.go:27	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 11:30:56.706	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/gorm.go:37	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 11:30:56.708	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 11:30:56.708	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 11:30:56.711	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:35	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 11:30:56.711	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/core/server.go:27	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 11:46:33.394	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/gorm.go:37	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 11:46:33.396	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 11:46:33.396	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 11:46:33.398	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:35	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 11:46:33.399	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/core/server.go:27	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 11:51:15.838	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/gorm.go:37	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 11:51:15.841	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 11:51:15.841	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 11:51:15.843	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:35	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 11:51:15.844	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/core/server.go:27	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 11:52:10.211	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/gorm.go:37	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 11:52:10.214	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 11:52:10.214	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 11:52:10.215	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:35	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 11:52:10.217	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/core/server.go:27	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 11:55:00.932	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/gorm.go:37	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 11:55:00.935	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 11:55:00.935	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 11:55:00.938	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:35	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 11:55:00.940	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/core/server.go:27	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:02:05.041	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/gorm.go:37	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:02:05.046	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:02:05.046	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:02:05.048	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:35	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:02:05.051	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/core/server.go:27	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:03:25.988	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/gorm.go:37	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:03:25.992	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:03:25.992	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:03:25.993	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:35	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:03:25.995	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/core/server.go:27	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:05:44.666	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/gorm.go:37	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:05:44.668	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:05:44.668	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:05:44.670	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:35	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:05:44.671	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/core/server.go:27	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:09:06.405	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/gorm.go:37	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:09:06.408	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:09:06.408	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:09:06.410	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:35	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:09:06.412	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/core/server.go:27	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:09:49.906	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/gorm.go:37	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:09:49.908	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:09:49.908	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:09:49.911	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:35	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:09:49.912	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/core/server.go:27	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:13:45.163	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/gorm.go:37	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:13:45.166	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:13:45.166	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:13:45.168	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:35	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:13:45.171	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/core/server.go:27	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:18:25.781	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/gorm.go:37	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:18:25.783	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:18:25.784	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:18:25.786	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:35	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:18:25.787	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/core/server.go:27	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:19:42.117	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/gorm.go:37	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:19:42.119	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:19:42.119	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:19:42.120	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:35	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:19:42.122	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/core/server.go:27	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:20:18.864	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/gorm.go:37	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:20:18.866	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:20:18.867	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:20:18.869	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:35	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:20:18.870	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/core/server.go:27	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:20:59.249	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/gorm.go:37	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:20:59.251	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:20:59.251	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:20:59.253	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:35	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:20:59.255	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/core/server.go:27	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:22:01.078	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/gorm.go:37	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:22:01.080	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:22:01.080	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:22:01.082	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:35	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:22:01.084	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/core/server.go:27	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:23:53.014	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/gorm.go:37	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:23:53.017	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:23:53.017	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:23:53.018	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:35	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:23:53.020	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/core/server.go:27	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:25:10.587	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/gorm.go:37	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:25:10.590	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:25:10.590	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:25:10.592	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:35	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:25:10.594	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/core/server.go:27	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:30:39.266	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/gorm.go:37	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:30:39.269	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:30:39.269	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:30:39.271	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:35	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:30:39.272	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/core/server.go:27	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:31:25.077	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/gorm.go:37	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:31:25.078	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:31:25.079	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:31:25.080	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:35	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 12:31:25.081	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/core/server.go:27	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 14:03:11.810	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/gorm.go:37	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 14:03:11.812	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 14:03:11.812	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 14:03:11.814	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:35	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 14:03:11.816	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/core/server.go:27	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 17:50:44.967	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/gorm.go:38	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 17:50:44.987	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 17:50:44.987	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 17:50:44.990	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:35	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 17:50:44.993	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/core/server.go:27	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 17:55:07.400	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/gorm.go:38	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 17:55:07.402	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 17:55:07.402	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 17:55:07.495	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:35	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 17:55:07.496	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/core/server.go:27	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 19:46:23.956	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/gorm.go:38	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 19:46:23.978	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 19:46:23.978	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 19:46:23.981	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:35	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 19:46:23.982	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/core/server.go:27	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 19:51:38.913	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/gorm.go:38	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 19:51:38.916	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 19:51:38.916	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 19:51:38.918	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:35	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 19:51:38.921	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/core/server.go:27	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 19:53:49.878	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/gorm.go:38	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 19:53:49.880	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 19:53:49.880	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 19:53:49.883	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:35	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 19:53:49.885	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/core/server.go:27	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 19:55:05.396	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/gorm.go:38	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 19:55:05.398	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:17	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 19:55:05.398	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:21	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 19:55:05.401	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/initialize/router.go:35	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/19 - 19:55:05.403	[34minfo[0m	D:/GoProject/Gin-Vue-Admin/server/core/server.go:27	server run success on 	{"address": ":8888"}

@@ -1,0 +1,51 @@
+jwt:
+  buffer-time: 86400
+  expires-time: 604800
+  issuer: qmPlus
+  signing-key: 31d9bec5-892f-4dfd-8738-ab8277306479
+local:
+  path: uploads/file
+mysql:
+  path: 127.0.0.1
+  port: "3308"
+  config: charset=utf8mb4&parseTime=True&loc=Local
+  db-name: teachsystem
+  username: root
+  password: yww1352465324
+  max-idle-conns: 0
+  max-open-conns: 0
+  log-mode: ""
+  log-zap: false
+system:
+  env: public
+  addr: 8888
+  db-type: mysql
+  oss-type: local
+  use-multipoint: false
+  iplimit-count: 15000
+  iplimit-time: 3600
+db-list:
+  - disable: false
+    type: ""
+    alias-name: ""
+    path: ""
+    port: ""
+    config: ""
+    db-name: ""
+    username: ""
+    password: ""
+    max-idle-conns: 10
+    max-open-conns: 100
+    log-mode: ""
+    log-zap: false
+zap:
+  level: info
+  format: console
+  prefix: '[github.com/flipped-aurora/gin-vue-admin/server]'
+  director: log
+  showLine: true
+  encode-level: LowercaseColorLevelEncoder
+  stacktrace-key: stacktrace
+  log-in-console: true
+casbin:
+  model-path: ./resource/rbac_model.conf
