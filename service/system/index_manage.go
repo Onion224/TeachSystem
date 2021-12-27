@@ -54,7 +54,18 @@ func (m *ManageService) GetRosterlist(info systemReq.RosterSearch) (err error, l
 
 //查看班级成绩单
 func (m *ManageService) GetScorelist(info systemReq.ScoreSearch) (err error, list interface{}, total int64) {
-	return
+	limit := info.PageSize
+	offset := info.PageSize * (info.Page - 1)
+	var scorelist []systemReq.ScoreSearch
+	db := global.GVA_DB.Table("scores").
+		Select("scores.score_id as ScoreID, students.name as StudentName, courses.name as CourseName, classes.name as ClassName, scores.score as Score").
+		Joins("JOIN students on scores.student_id = students.id").
+		Joins("JOIN courses on scores.course_id = courses.id").
+		Joins("JOIN classes on scores.class_id = classes.id").Find(&scorelist).Count(&total)
+	err = db.Error
+	if err != nil {
+		return
+	}
+	err = global.GVA_DB.Limit(limit).Offset(offset).Error
+	return err, scorelist, total
 }
-
-//

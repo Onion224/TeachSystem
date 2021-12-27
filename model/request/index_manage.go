@@ -24,13 +24,14 @@ type RosterSearch struct {
 }
 
 type ScoreSearch struct {
-	ScoreID string          `json:"score_id" gorm:"not null;unique;primaryKey;"`
-	Score   decimal.Decimal `json:"score"`
-	//Student和Score的has many外键
-	StudentID string `json:"student_id"`
+	ScoreID string `json:"score_id" gorm:"not null;unique;primaryKey;column:ScoreID"`
+	//学生姓名
+	StudentName string `json:"student_name" gorm:"column:StudentName"`
 	//Course和Score的has many外键
-	CourseID string `json:"course_id"`
+	CourseName string `json:"course_name" gorm:"column:CourseName"`
 	//Class和Socre的has many外键
-	ClassID string `json:"class_id"`
+	ClassName string `json:"class_name" gorm:"column:ClassName"`
+	//分数
+	Score decimal.Decimal `json:"score" gorm:"column:Score"`
 	request.PageInfo
 }

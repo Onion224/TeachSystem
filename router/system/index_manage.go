@@ -21,7 +21,7 @@ func (m *ManageRouter) InitManageRouter(Router *gin.RouterGroup) {
 		router.GET("findCoursePlanList", managerouter.findCoursePlanList)
 		router.GET("findClass", managerouter.findClass)
 		router.GET("findRoster", managerouter.findRoster)
-		router.GET("findGrade", managerouter.findGrade)
+		router.GET("findScore", managerouter.findScore)
 		router.GET("findHomework", managerouter.findHomework)
 	}
 }
@@ -76,12 +76,25 @@ func (m *ManageRouter) findRoster(c *gin.Context) {
 		}, "获取成功", c)
 	}
 }
-func (m *ManageRouter) findClass(c *gin.Context) {
-	c.JSON(200, gin.H{
-		"status": 200,
-	})
+
+//查看班级成绩单
+func (m *ManageRouter) findScore(c *gin.Context) {
+	var pageInfo systemReq.ScoreSearch
+	_ = c.ShouldBindJSON(&pageInfo)
+	if err, list, total := manageService.GetScorelist(pageInfo); err != nil {
+		global.GVA_LOG.Error("获取失败!", zap.Error(err))
+		response.FailWithMessage("获取失败", c)
+	} else {
+		response.OkWithDetailed(response.PageResult{
+			List:     list,
+			Total:    total,
+			Page:     pageInfo.Page,
+			PageSize: pageInfo.PageSize,
+		}, "获取成功", c)
+	}
 }
-func (m *ManageRouter) findGrade(c *gin.Context) {
+
+func (m *ManageRouter) findClass(c *gin.Context) {
 	c.JSON(200, gin.H{
 		"status": 200,
 	})

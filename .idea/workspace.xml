@@ -4,17 +4,14 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f552d393-b7d5-4b3d-aaef-45d93cb5784a" name="Changes" comment="fix">
-      <change afterPath="$PROJECT_DIR$/model/Authority.go" afterDir="false" />
+    <list default="true" id="f552d393-b7d5-4b3d-aaef-45d93cb5784a" name="Changes" comment="test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/initialize/gorm.go" beforeDir="false" afterPath="$PROJECT_DIR$/initialize/gorm.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/server_error.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/server_error.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/server_info.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/server_info.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/User.go" beforeDir="false" afterPath="$PROJECT_DIR$/model/User.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/response/admin_authority.go" beforeDir="false" afterPath="$PROJECT_DIR$/model/response/admin_authority.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/router/system/admin_authority.go" beforeDir="false" afterPath="$PROJECT_DIR$/router/system/admin_authority.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/system/admin_authority.go" beforeDir="false" afterPath="$PROJECT_DIR$/service/system/admin_authority.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/request/index_manage.go" beforeDir="false" afterPath="$PROJECT_DIR$/model/request/index_manage.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/router/system/index_manage.go" beforeDir="false" afterPath="$PROJECT_DIR$/router/system/index_manage.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/system/index_manage.go" beforeDir="false" afterPath="$PROJECT_DIR$/service/system/index_manage.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +25,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" url="file://D:/golang" />
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../go" />
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
       <GitPushTagMode>
@@ -89,7 +86,16 @@
       <recent name="D:\GoProject\Gin-Vue-Admin\server\initialize" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build main.go">
+  <component name="RunManager" selected="Go 构建.go build main.go">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="server" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="server" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="server" />
       <working_directory value="$PROJECT_DIR$" />
@@ -117,9 +123,19 @@
       <filePath value="$PROJECT_DIR$/router/system/sys_system.go" />
       <method v="2" />
     </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="server" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <package value="server" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go 构建.go build main.go" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +157,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+    <MESSAGE value="commit getAuthorityList Api" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit getAuthorityList Api" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>

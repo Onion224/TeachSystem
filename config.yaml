@@ -7,11 +7,11 @@ local:
   path: uploads/file
 mysql:
   path: 127.0.0.1
-  port: "3306"
+  port: "3308"
   config: charset=utf8mb4&parseTime=True&loc=Local
   db-name: teachsystem
   username: root
-  password: new_password
+  password: yww1352465324
   max-idle-conns: 0
   max-open-conns: 0
   log-mode: ""
